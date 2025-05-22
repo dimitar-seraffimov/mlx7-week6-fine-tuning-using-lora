@@ -15,6 +15,10 @@ References to interesting papers, GitHub repos and articles:
 | Diffusion Explainer | https://poloclub.github.io/diffusion-explainer/ |
 | Low-rank Adaptation for Fast Text-to-Image Diffusion Fine-tuning | https://github.com/cloneofsimo/lora |
 | Tom and Jerry Image Classification | https://www.kaggle.com/datasets/balabaskar/tom-and-jerry-image-classification |
+| Phycics of Language Models | https://physics.allen-zhu.com/home |
+| RADLADS: Rapid Attention Distillation to Linear Attention De-
+coders at Scale | https://arxiv.org/pdf/2505.03005 |
+| The Illustrated Stable Diffusion | https://jalammar.github.io/illustrated-stable-diffusion/ |
 
 # Tom and Jerry Universe Image Generation with LoRA
 
